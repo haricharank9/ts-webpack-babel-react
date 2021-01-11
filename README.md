@@ -1,6 +1,6 @@
-# TypeScript Web Playground
+# TypeScript Webpack Babel React Setup
 
-This project was set-up as a starter kit for running typescript on node server with linting and hot-reloading.
+This project was set-up using webpack babel typect react without using `create-react-app` from the scratch.
 
 ## Available Scripts
 
@@ -12,4 +12,4 @@ Launches the project in development mode with hot reloading.
 
 ### `npm run build`
 
-Compiles the Typescript into Javascript and Outputs into 'dist' folder.
+Builds the code ready for production deployment using hashing and necessary optimizations.
